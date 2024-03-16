@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ABCODIN</h1>
-<h3 align="center">Gamer and</h3>
+<h3 align="center">Gamer and Computer scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abcodin&label=Profile%20views&color=0e75b6&style=flat" alt="abcodin" /> </p>
 
