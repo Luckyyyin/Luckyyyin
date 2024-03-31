@@ -56,6 +56,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/ABCODIN/ABCODIN/blob/main/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ABCODIN/ABCODIN/output/snake.svg" alt="Snake animation" />
 
 ###
