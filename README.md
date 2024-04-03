@@ -8,7 +8,7 @@
 </div>
 
 ###
-<img style="solid" align="right" height="200" src="https://github.com/ABCODIN/ABCODIN/blob/main/slimV2BigBlue.gif"/>
+<img style="solid" align="right" height="200" src="https://github.com/ABCODIN/MyAssets/blob/main/slimV2BigBlue.gif"/>
 
 
 ###
