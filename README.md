@@ -54,7 +54,7 @@
 
 <br clear="both">
 <div align="left">
-  <img src="https://raw.githubusercontent.com/Luckyyyin/Luckyyin/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Luckyyyin/Luckyyyin/actions/runs/9713204757" alt="Snake animation" />
 </div>
 
 
