@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm LUCKYYYIN</h2>
+<h2 align="left">Hi 👋! I'm LUCKYINS</h2>
 
 ###
 
