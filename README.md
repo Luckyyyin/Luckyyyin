@@ -3,12 +3,12 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luckyyyin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luckyyyin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LUCKYINS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LUCKYINS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
-<img style="solid" align="right" height="200" src="https://github.com/ABCODIN/ABCODIN/blob/main/slimV2BigBlue.gif"/>
+<img style="solid" align="right" height="200" src="https://github.com/LUCKYINS/LUCKYINS/blob/main/slimV2BigBlue.gif"/>
 
 
 ###
@@ -54,7 +54,7 @@
 
 <br clear="both">
 <div align="left">
- <img src="https://raw.githubusercontent.com/Luckyyyin/Luckyyyin/output/snake.svg" alt="Snake animation" />
+ <img src="https://raw.githubusercontent.com/LUCKYINS/LUCKYINS/output/snake.svg" alt="Snake animation" />
 </div>
 
 
